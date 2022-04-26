@@ -1,5 +1,5 @@
 telegram
-telegrm.ext
+telegram.ext
 jenkins
 logging
 configparser
